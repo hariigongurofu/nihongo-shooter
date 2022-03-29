@@ -1,6 +1,6 @@
 ## Play now
 
-Play at https://ubershmekel.github.io/nihongo-shooter/
+Play at https://hariigongurofu.github.io/nihongo-shooter/
 
 ## Nihongo Shooter
 
