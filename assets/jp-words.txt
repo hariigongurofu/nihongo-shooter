@@ -1,104 +1,104 @@
-いる:いる:to existxxx (living things)
-する:する:to doxxx
-何:何[なに]:whatxxx
-これ:これ:thisxxx
-学校:学校[がっこう]:schoolxxx
-行く:行[い]く:to goxxx
-たくさん:たくさん:a lotxxx
-子供:子供[こども]:"child, children"xxx
-連れる:連[つ]れる:to take (a person along)xxx
-犬:犬[いぬ]:dogxxx
-宿題:宿題[しゅくだい]:homeworkxxx
-私:私[わたし]:Ixxx
-屋:屋[や]:(something) shopxxx
-ある:ある:to exist (inanimate objects)xxx
-あそこ:あそこ:over therexxx
-人:人[ひと]:personxxx
-教室:教室[きょうしつ]:classroomxxx
-そんな:そんな:"such (actions, ideas), like that, that sort of"xxx
-鳴る:鳴[な]る:"to sound, to ring"xxx
-買う:買[か]う:to buyxxx
-本:本[ほん]:bookxxx
-有名:有名[ゆうめい]:famousxxx
-読む:読[よ]む:to readxxx
-上がる:上[あ]がる:"to ascend, to go up, to be raised, to lift"xxx
-成績:成績[せいせき]:grades (school)xxx
-ここ:ここ:herexxx
-言う:言[い]う:"to say, speak"xxx
-この:この:this (thing)xxx
-問題:問題[もんだい]:"problem, question"xxx
+私:私[わたし]:I
+私達:私達[わたしたち]:We
+貴方:貴方[あなた]:You
+あの人:あの人[ひと]:He, She, That Person
+あの方:あの方[かた]:That Gentleman, That Lady, He or She (Polite)
+皆さん:皆[みな]さん:All, Everyone, Everybody
+~さん:~さん:Mr., Mrs., Ms. (very formal)
+~ちゃん:~ちゃん:suffix for familiar person​ (Usually after a child's name)
+~君:~君[くん]:Boy (Suffix often added to a boy's name)
+~人:~人[じん]:Person (Suffix for person of a nation)
+先生:先生[せんせい]:Teacher, Instructor, Master
+学生:学生[がくせい]:Student
+会社員:会社員[かいしゃいん]:Company Employee, Office Worker, White-Collar Worker
+社員:社員[しゃいん]:Company (Used with a Company's Name)
+銀行員:銀行員[ぎんこういん]:Bank Employee, Bank Staff Member, Bank Clerk
+医者:医者[いしゃ]:Doctor, Physician
+研究者:研究者[けんきゅうしゃ]:Researcher, Scholar
+エンジニア:エンジニア:Engineer
+大学:大学[だいがく]:University, College
+病院:病院[びょういん]:Hospital, Clinic, Doctor's Office
+電気:電気[でんき]:Electricity, Light
+誰:誰[だれ]:Who
+~歳:~歳[さい]:~ Years Old
+幾つ:幾[いく]つ:How Many, How Old
+はい:はい:Yes
+否:否[いいえ]:No
+失礼します:失礼[しつれい]します:Excuse Me, Pardon Me, I Beg Your Pardon
+名前:お名前[なまえ]:Name
+初めまして:初[はじ]めまして:Nice To Meet You, I'm Glad To Make Your Acquaintance
 考える:考[かんが]える:to think (about something)xxx
-後:後[あと]:"later, after"
+後:後[あと]:later, after
 毎日:毎日[まいにち]:every day
-彼:彼[かれ]:"he, him"
+彼:彼[かれ]:he, him
 来る:来[く]る:to come
 彼氏:彼氏[かれし]:boyfriend
 電話:電話[でんわ]:phone
-集まる:集[あつ]まる:"to gather, to collect, to assemble"
-事:事[こと]:"thing, matter"
-好き:好[す]き:"liking, fondness, love, being attractive (to)"
-僕:僕[ぼく]:"I, me (male)"
+集まる:集[あつ]まる:to gather, to collect, to assemble
+事:事[こと]:thing, matter
+好き:好[す]き:liking, fondness, love, being attractive (to)
+僕:僕[ぼく]:I, me (male)
 勉強:勉強[べんきょう]:study
 英語:英語[えいご]:english
-教える:教[おし]える:"to teach, to tell"
-分かる:分[わ]かる:"to understand, to comprehend"
+教える:教[おし]える:to teach, to tell
+分かる:分[わ]かる:to understand, to comprehend
 手:手[て]:hand
 上げる:上[あ]げる:to raise
 君:君[きみ]:you
 全然:全然[ぜんぜん]:not at all (with neg. verb)
-友達:友達[ともだち]:"friend, companion"
+友達:友達[ともだち]:friend, companion
 会う:会[あ]う:to meet
-生徒:生徒[せいと]:"pupil, student"
+生徒:生徒[せいと]:pupil, student
 兄:兄[あに]:older brother
-大学:大学[だいがく]:"university, college"
-部:部[ぶ]:"department, club"
-方:方[ほう]:"side (of an argument, etc.)"
+大学:大学[だいがく]:university, college
+部:部[ぶ]:department, club
+方:方[ほう]:side (of an argument, etc.)
 より:より:than
-力:力[ちから]:"strength, power"
+力:力[ちから]:strength, power
 猫:猫[ねこ]:cat
 上:上[うえ]:above
-置く:置[お]く:"to put, to place"
-色々:色々[いろいろ]:"various, all sorts of"
+置く:置[お]く:to put, to place
+色々:色々[いろいろ]:various, all sorts of
 かばん:かばん:bag
 家:家[いえ]:house
 美味しい:美味[おい]しい:delicious
-遊ぶ:遊[あそ]ぶ:"to play, to hang out"
+遊ぶ:遊[あそ]ぶ:to play, to hang out
 明日:明日[あした]:tomorrow
-料理:料理[りょうり]:"cooking, cuisine"
-そう:そう:"appearing that, seeming that"
+料理:料理[りょうり]:cooking, cuisine
+そう:そう:appearing that, seeming that
 立つ:立[た]つ:to stand
 ください:ください:please (give/do for me)
-ゆっくり:ゆっくり:"slowly, at ease"
-作る:作[つく]る:"to create, to make"
+ゆっくり:ゆっくり:slowly, at ease
+作る:作[つく]る:to create, to make
 その:その:that (thing)
 通る:通[とお]る:to pass
 高校:高校[こうこう]:high school
-彼女:彼女[かのじょ]:"she, her; girlfriend"
-手伝う:手伝[てつだ]う:"to help, to assist"
+彼女:彼女[かのじょ]:she, her; girlfriend
+手伝う:手伝[てつだ]う:to help, to assist
 両親:両親[りょうしん]:parents
 もらう:もらう:to recieve
 手紙:手紙[てがみ]:letter
 くれる:くれる:to give
 そこ:そこ:that (a little distant)
-場所:場所[ばしょ]:"place, location"
+場所:場所[ばしょ]:place, location
 ありがとう:ありがとう:thank you (informal)
-様:様[さま]:"Mr., Mrs., Ms. (very formal)"
+様:様[さま]:Mr., Mrs., Ms. (very formal)
 いらっしゃる:いらっしゃる:to be (honorific version of いる)
 数学:数学[すうがく]:mathematics
-解く:解[と]く:"to untie, to unfasten, to solve"
-難しい:難[むずか]しい:"difficult, hard"
+解く:解[と]く:to untie, to unfasten, to solve
+難しい:難[むずか]しい:difficult, hard
 とても:とても:very
-中:中[なか]:"middle, within"
+中:中[なか]:middle, within
 忙しい:忙[いそが]しい:busy
-仕事:仕事[しごと]:"work, job"
-疲れる:疲[つか]れる:"to get tired, to be worn out"
+仕事:仕事[しごと]:work, job
+疲れる:疲[つか]れる:to get tired, to be worn out
 休憩:休憩[きゅうけい]:break (from doing something)
 取る:取[と]る:to take
 任せる:任[まか]せる:to entrust (a task) to another
 新しい:新[あたら]しい:new
-前:前[まえ]:"in front (of), before"
+前:前[まえ]:in front (of), before
 朝:朝[あさ]:morning
-降る:降[ふ]る:"to fall (rain, snow, etc)"
+降る:降[ふ]る:to fall (rain, snow, etc)
 日:日[ひ]:day
 なる:なる:to become
 聞く:聞[き]く:to listen
@@ -107,36 +107,36 @@
 冬:冬[ふゆ]:winter (season)
 寒い:寒[さむ]い:cold (weather)
 誰:誰[だれ]:who
-店:店[みせ]:"store, shop"
+店:店[みせ]:store, shop
 入る:入[はい]る:to enter
-本当:本当[ほんとう]:"really, truth"
+本当:本当[ほんとう]:really, truth
 妹:妹[いもうと]:younger sister
 買い物:買[か]い 物[もの]:shopping
 携帯:携帯[けいたい]:cell phone
 今日:今日[きょう]:today
 暑い:暑[あつ]い:hot (weather)
 ちょっと:ちょっと:a little bit
-見る:見[み]る:"to see, to look, to watch"
-一緒:一緒[いっしょ]:"together, at the same time"
+見る:見[み]る:to see, to look, to watch
+一緒:一緒[いっしょ]:together, at the same time
 映画:映画[えいが]:movie
-面白い:面白[おもしろ]い:"interesting, amusing"
+面白い:面白[おもしろ]い:interesting, amusing
 周り:周[まわ]り:surroundings
 もちろん:もちろん:of course
-知る:知[し]る:"to know, to be aware of"
-すごい:すごい:"amazing, terrific"
-みんな:みんな:"everyone, everybody, all"
-名前:名前[なまえ]:"name, first name"
-思い:思[おも]い:"thought, feeling"
+知る:知[し]る:to know, to be aware of
+すごい:すごい:amazing, terrific
+みんな:みんな:everyone, everybody, all
+名前:名前[なまえ]:name, first name
+思い:思[おも]い:thought, feeling
 出す:出[だ]す:to take out
 忘れる:忘[わす]れる:to forget
-恥ずかしい:恥[は]ずかしい:"shameful, embarrassing"
+恥ずかしい:恥[は]ずかしい:shameful, embarrassing
 乾かす:乾[かわ]かす:to dry
 髪:髪[かみ]:hair (on the head)
-変わる:変[か]わる:"to change, to be transformed, to be altered"
-長い:長[なが]い:"long (length, time)"
-足:足[あし]:"leg, foot"
-強い:強[つよ]い:"strong, tough"
-別:別[べつ]:"separate, different"
+変わる:変[か]わる:to change, to be transformed, to be altered
+長い:長[なが]い:long (length, time)
+足:足[あし]:leg, foot
+強い:強[つよ]い:strong, tough
+別:別[べつ]:separate, different
 色:色[いろ]:color
 まだ:まだ:not yet
 歳:歳[さい]:age counter
@@ -144,41 +144,41 @@
 二人:二人[ふたり]:two people
 環境:環境[かんきょう]:environment
 息子:息子[むすこ]:son
-受ける:受[う]ける:"to take (a test), to accept (a challenge), to receive"
-授業:授業[じゅぎょう]:"lesson, class (school)"
-終わる:終[お]わる:"to finish, to end"
-俺:俺[おれ]:"I, me (male)"
-もう:もう:"now, soon, already, yet"
+受ける:受[う]ける:to take (a test), to accept (a challenge), to receive
+授業:授業[じゅぎょう]:lesson, class (school)
+終わる:終[お]わる:to finish, to end
+俺:俺[おれ]:I, me (male)
+もう:もう:now, soon, already, yet
 待つ:待[ま]つ:to wait
 椅子:椅子[いす]:chair
-すぐ:すぐ:"immediately, right away"
-試合:試合[しあい]:"match, game"
-始まる:始[はじ]まる:"to begin, to start"
+すぐ:すぐ:immediately, right away
+試合:試合[しあい]:match, game
+始まる:始[はじ]まる:to begin, to start
 年:年[とし]:year
 時:時[とき]:when
 経つ:経[た]つ:to elapse (time)
-最近:最近[さいきん]:"nowadays, recently"
+最近:最近[さいきん]:nowadays, recently
 座る:座[すわ]る:to sit
 走る:走[はし]る:to run
-必死:必死[ひっし]:"frantic, desperate"
+必死:必死[ひっし]:frantic, desperate
 机:机[つくえ]:desk
 鉛筆:鉛筆[えんぴつ]:pencil
 子:子[こ]:child
 運動:運動[うんどう]:exercise (physical)
 もっと:もっと:(some) more
 夢:夢[ゆめ]:dream
-不思議:不思議[ふしぎ]:"wonder, mystery"
+不思議:不思議[ふしぎ]:wonder, mystery
 歌:歌[うた]:song
-上手:上手[じょうず]:"good (at), skilled"
-絵:絵[え]:"drawing, painting, sketch"
-上手い:上手[うま]い:"good, skilled"
+上手:上手[じょうず]:good (at), skilled
+絵:絵[え]:drawing, painting, sketch
+上手い:上手[うま]い:good, skilled
 どれ:どれ:which
 くらい:くらい:approximately
 褒める:褒[ほ]める:to praise
 なかなか:なかなか:quite
 眠る:眠[ねむ]る:to sleep
 思う:思[おも]う:to think
-綺麗:綺麗[きれい]:"clean, beautiful"
+綺麗:綺麗[きれい]:clean, beautiful
 花:花[はな]:flower
 咲く:咲[さ]く:to bloom
 桜:桜[さくら]:cherry blossom
@@ -191,13 +191,13 @@
 片付ける:片付[かたづ]ける:to organize
 一人:一人[ひとり]:one person
 食べる:食[た]べる:to eat
-全部:全部[ぜんぶ]:"all, entire, whole, altogether"
+全部:全部[ぜんぶ]:all, entire, whole, altogether
 月:月[つき]:moon
 服:服[ふく]:clothes
 山:山[やま]:mountain
-見える:見[み]える:"be able to see, to be in sight"
-今夜:今夜[こんや]:"this evening, tonight"
-優しい:優[やさ]しい:"kind, nice"
+見える:見[み]える:be able to see, to be in sight
+今夜:今夜[こんや]:this evening, tonight
+優しい:優[やさ]しい:kind, nice
 対する:対[たい]する:relating to something
 厳しい:厳[きび]しい:strict
 どう:どう:how
@@ -205,41 +205,41 @@
 頃:頃[ころ]:(approximate) time
 小学生:小学生[しょうがくせい]:elementary school student
 どんどん:どんどん:more and more
-音:音[おと]:"sound, noise"
+音:音[おと]:sound, noise
 雨:雨[あめ]:rain
-聞こえる:聞[き]こえる:"to be audible, can hear"
-海:海[うみ]:"sea, ocean"
+聞こえる:聞[き]こえる:to be audible, can hear
+海:海[うみ]:sea, ocean
 波:波[なみ]:wave (ocean)
-はっきり:はっきり:"clearly, plainly, distinctly"
-応援:応援[おうえん]:"to cheer for, to support"
-選手:選手[せんしゅ]:"player (sports), athlete"
-目指す:目指[めざ]す:"to aim at (for, to do, to become)"
+はっきり:はっきり:clearly, plainly, distinctly
+応援:応援[おうえん]:to cheer for, to support
+選手:選手[せんしゅ]:player (sports), athlete
+目指す:目指[めざ]す:to aim at (for, to do, to become)
 将来:将来[しょうらい]:future (near term)
 野球:野球[やきゅう]:baseball
-物:物[もの]:"item, thing"
+物:物[もの]:item, thing
 姉:姉[あね]:older sister
 やる:やる:to do
 自分:自分[じぶん]:oneself
-高い:高[たか]い:"high, tall; expensive"
-選ぶ:選[えら]ぶ:"to choose, to select"
-間違う:間違[まちが]う:"to be incorrect, to be mistaken"
-答え:答[こた]え:"answer, reply, response"
-しまう:しまう:"to complete, to finish"
+高い:高[たか]い:high, tall; expensive
+選ぶ:選[えら]ぶ:to choose, to select
+間違う:間違[まちが]う:to be incorrect, to be mistaken
+答え:答[こた]え:answer, reply, response
+しまう:しまう:to complete, to finish
 濡れる:濡[ぬ]れる:to get wet
 止まる:止[と]まる:to come to a stop
 雪:雪[ゆき]:snow
 戦争:戦争[せんそう]:war
-世界:世界[せかい]:"the world, society"
+世界:世界[せかい]:the world, society
 平和:平和[へいわ]:peace
-弟:弟[おとうと]:"younger brother, little brother"
+弟:弟[おとうと]:younger brother, little brother
 車:車[くるま]:car
-多い:多[おお]い:"frequent, many"
-危ない:危[あぶ]ない:"dangerous, risky, hazardous"
+多い:多[おお]い:frequent, many
+危ない:危[あぶ]ない:dangerous, risky, hazardous
 道:道[みち]:road
 父親:父親[ちちおや]:father
 病院:病院[びょういん]:hospital
-気持ち:気持[きも]ち:"feeling, emotion, mood"
-伝える:伝[つた]える:"to convey, to communicate"
+気持ち:気持[きも]ち:feeling, emotion, mood
+伝える:伝[つた]える:to convey, to communicate
 飲む:飲[の]む:to drink
 酒:酒[さけ]:alcohol
 風:風[かぜ]:wind
@@ -251,99 +251,99 @@
 初めて:初[はじ]めて:for the first time
 肉:肉[にく]:meat
 昨日:昨日[きのう]:yesterday
-覚える:覚[おぼ]える:"to memorize, to remember"
+覚える:覚[おぼ]える:to memorize, to remember
 今:今[いま]:now
-話す:話[はな]す:"to talk, to converse, to speak"
-一番:一番[いちばん]:"number one, first"
+話す:話[はな]す:to talk, to converse, to speak
+一番:一番[いちばん]:number one, first
 外:外[そと]:outside
 電気:電気[でんき]:electricity
 暗い:暗[くら]い:dark
 気をつける:気[き]をつける:to be careful
-迎える:迎[むか]える:"to receive, to welcome, to greet"
+迎える:迎[むか]える:to receive, to welcome, to greet
 質問:質問[しつもん]:question
 答える:答[こた]える:to answer
-出来る:出来[でき]る:"can, to be able to do"
+出来る:出来[でき]る:can, to be able to do
 祈る:祈[いの]る:to pray
 受験:受験[じゅけん]:taking an examination (school and university entrance)
 合格:合格[ごうかく]:passing (exam)
-休む:休[やす]む:"to rest, to take a day off"
+休む:休[やす]む:to rest, to take a day off
 しばらく:しばらく:for the time being
-写真:写真[しゃしん]:"photo, picture"
+写真:写真[しゃしん]:photo, picture
 家族:家族[かぞく]:family
 飾る:飾[かざ]る:to decorate
 壁:壁[かべ]:wall
-塗る:塗[ぬ]る:"to paint, to spread"
-旅行:旅行[りょこう]:"travel, trip"
+塗る:塗[ぬ]る:to paint, to spread
+旅行:旅行[りょこう]:travel, trip
 帰る:帰[かえ]る:to return home
 遅れる:遅[おく]れる:to be late
 今朝:今朝[けさ]:this morning
 ごめん:ごめん:sorry
 時間:時間[じかん]:time hours (period of)
-大きい:大[おお]きい:"big, large"
+大きい:大[おお]きい:big, large
 卒業:卒業[そつぎょう]:graduation
-会社:会社[かいしゃ]:"company, corporation"
+会社:会社[かいしゃ]:company, corporation
 働く:働[はたら]く:to work
 掛ける:掛[か]ける:to hang
-起きる:起[お]きる:"to wake up, to be awake"
+起きる:起[お]きる:to wake up, to be awake
 早い:早[はや]い:early
-出る:出[で]る:"to leave, to come out"
+出る:出[で]る:to leave, to come out
 悪い:悪[わる]い:bad
-楽しい:楽[たの]しい:"enjoyable, fun"
-気:気[き]:"mood, spirit, mind"
+楽しい:楽[たの]しい:enjoyable, fun
+気:気[き]:mood, spirit, mind
 意味:意味[いみ]:meaning
 得意:得意[とくい]:one's strong point
 母親:母親[ははおや]:mother
-欲しい:欲[ほ]しい:"want, wanted, desired"
-だけ:だけ:"only, just"
-頑張る:頑張[がんば]る:"good luck, do your best"
-持つ:持[も]つ:"to possess, to have, to carry, to hold"
-痛い:痛[いた]い:"ouch, painful"
+欲しい:欲[ほ]しい:want, wanted, desired
+だけ:だけ:only, just
+頑張る:頑張[がんば]る:good luck, do your best
+持つ:持[も]つ:to possess, to have, to carry, to hold
+痛い:痛[いた]い:ouch, painful
 頭:頭[あたま]:head
 人気:人気[にんき]:popular
-商品:商品[しょうひん]:"product (business), merchandise"
-払う:払[はら]う:"to pay (money, bill, etc.)"
+商品:商品[しょうひん]:product (business), merchandise
+払う:払[はら]う:to pay (money, bill, etc.)
 金:金[かね]:money
-小さい:小[ちい]さい:"small, little"
+小さい:小[ちい]さい:small, little
 女優:女優[じょゆう]:actress
-勝つ:勝[か]つ:"to win, to gain victory"
-ため:ため:"sake, purpose"
+勝つ:勝[か]つ:to win, to gain victory
+ため:ため:sake, purpose
 体:体[からだ]:body
-当たり前:当たり前[あたりまえ]:"of course, obvious, commonplace, the norm"
-過ぎる:過[す]ぎる:"to exceed, to surpass"
+当たり前:当たり前[あたりまえ]:of course, obvious, commonplace, the norm
+過ぎる:過[す]ぎる:to exceed, to surpass
 太る:太[ふと]る:to fatten
 世話:世話[せわ]:care (for)
-間:間[あいだ]:"period of time (during, while), between"
+間:間[あいだ]:period of time (during, while), between
 食う:食[く]う:to eat (informal)
 飯:飯[めし]:meal
 着く:着[つ]く:to arrive
-話:話[はなし]:"story, conversation"
+話:話[はなし]:story, conversation
 声:声[こえ]:voice
 男:男[おとこ]:man
 いつも:いつも:always
-合う:合[あ]う:"to fit, to match, to suit"
-通り:通[とお]り:"avenue, street, way, road"
+合う:合[あ]う:to fit, to match, to suit
+通り:通[とお]り:avenue, street, way, road
 いっぱい:いっぱい:full
 若い:若[わか]い:young
 女:女[おんな]:woman
 どこ:どこ:where
-向かう:向[む]かう:"to go towards, to head towards"
+向かう:向[む]かう:to go towards, to head towards
 次:次[つぎ]:next (in sequence)
 飛ぶ:飛[と]ぶ:to fly
-打つ:打[う]つ:"to hit, to strike, to knock, to beat"
-探す:探[さが]す:"to search (for something desired, needed, lost), to look for"
+打つ:打[う]つ:to hit, to strike, to knock, to beat
+探す:探[さが]す:to search (for something desired, needed, lost), to look for
 捕まる:捕[つか]まる:to be caught
-事件:事件[じけん]:"incident, affair"
-逃げる:逃[に]げる:"to escape, to run away"
-犯人:犯人[はんにん]:"offender, criminal"
-現実:現実[げんじつ]:"reality, actuality"
-描く:描[えが]く:"to draw, to paint, to sketch"
+事件:事件[じけん]:incident, affair
+逃げる:逃[に]げる:to escape, to run away
+犯人:犯人[はんにん]:offender, criminal
+現実:現実[げんじつ]:reality, actuality
+描く:描[えが]く:to draw, to paint, to sketch
 けが:けが:injury
-せい:せい:"reason, cause"
+せい:せい:reason, cause
 変:変[へん]:strange
-様子:様子[ようす]:"appearance, condition"
-見つける:見[み]つける:"to find, to discover"
+様子:様子[ようす]:appearance, condition
+見つける:見[み]つける:to find, to discover
 やっと:やっと:finally
-素敵:素敵[すてき]:"lovely, wonderful"
+素敵:素敵[すてき]:lovely, wonderful
 駅:駅[えき]:train station
 食事:食事[しょくじ]:meal
 眼鏡:眼鏡[めがね]:glasses
@@ -351,63 +351,63 @@
 あれ:あれ:that (distant)
 洗う:洗[あら]う:to wash
 顔:顔[かお]:face
-少し:少[すこ]し:"small quantity, little, few"
-使う:使[つか]う:"to use (a thing, method, etc.)"
-頼む:頼[たの]む:"to rely on, to entrust to, to request, to order"
+少し:少[すこ]し:small quantity, little, few
+使う:使[つか]う:to use (a thing, method, etc.)
+頼む:頼[たの]む:to rely on, to entrust to, to request, to order
 違う:違[ちが]う:to differ
 空:空[そら]:sky
 鳥:鳥[とり]:bird
-そろそろ:そろそろ:"soon, momentarily"
-始める:始[はじ]める:"to start, to begin"
+そろそろ:そろそろ:soon, momentarily
+始める:始[はじ]める:to start, to begin
 乗る:乗[の]る:to ride
-生活:生活[せいかつ]:"living, life (one's daily existence)"
+生活:生活[せいかつ]:living, life (one's daily existence)
 週間:週間[しゅうかん]:week (period of time)
 続く:続[つづ]く:to continue (without a break)
 赤い:赤[あか]い:red
 着る:着[き]る:to wear clothes (shoulders down)
-女の子:女の子[おんなのこ]:"young woman, girl"
+女の子:女の子[おんなのこ]:young woman, girl
 泣く:泣[な]く:to cry
 記憶:記憶[きおく]:memory
 失う:失[うしな]う:to lose
 昔:昔[むかし]:a long time ago
 それ:それ:that
-無理:無理[むり]:"impossible, can't"
-ご飯:ご 飯[はん]:"meal, rice"
-絶対:絶対[ぜったい]:"absolutely, certainly"
-怒る:怒[おこ]る:"to get angry, to scold"
-ちゃんと:ちゃんと:"sufficiently, properly"
+無理:無理[むり]:impossible, can't
+ご飯:ご 飯[はん]:meal, rice
+絶対:絶対[ぜったい]:absolutely, certainly
+怒る:怒[おこ]る:to get angry, to scold
+ちゃんと:ちゃんと:sufficiently, properly
 倒れる:倒[たお]れる:to collapse
 席:席[せき]:seat
 老人:老人[ろうじん]:elderly person
-助ける:助[たす]ける:"to help, to rescue"
-捨てる:捨[す]てる:"to throw away, to discard"
+助ける:助[たす]ける:to help, to rescue
+捨てる:捨[す]てる:to throw away, to discard
 所:所[ところ]:place
 静か:静[しず]か:quiet
 夏休み:夏休[なつやす]み:summer vacation
-最後:最後[さいご]:"final, last"
-戦う:戦[たたか]う:"to fight, to struggle (against adversities, etc.)"
-調べる:調[しら]べる:"to look up, to investigate"
-情報:情報[じょうほう]:"information, data"
-近く:近[ちか]く:"near, shortly"
+最後:最後[さいご]:final, last
+戦う:戦[たたか]う:to fight, to struggle (against adversities, etc.)
+調べる:調[しら]べる:to look up, to investigate
+情報:情報[じょうほう]:information, data
+近く:近[ちか]く:near, shortly
 住む:住[す]む:to live (of humans)
-回る:回[まわ]る:"to turn, to revolve"
+回る:回[まわ]る:to turn, to revolve
 決まる:決[き]まる:to be decided
-当たる:当[あ]たる:"to be hit, to be successful"
+当たる:当[あ]たる:to be hit, to be successful
 冗談:冗談[じょうだん]:joke
-付く:付[つ]く:"to be attached, to be connected with, to lit (fire, turn on TV)"
-失敗:失敗[しっぱい]:"failure, mistake, blunder"
-予定:予定[よてい]:"plans, arrangement"
+付く:付[つ]く:to be attached, to be connected with, to lit (fire, turn on TV)
+失敗:失敗[しっぱい]:failure, mistake, blunder
+予定:予定[よてい]:plans, arrangement
 殴る:殴[なぐ]る:to punch
 誘う:誘[さそ]う:to invite
-暮らす:暮[く]らす:"to live, to get along"
+暮らす:暮[く]らす:to live, to get along
 また:また:again
 いつ:いつ:when
-どういう:どういう:"what kind of, in what way"
-関係:関係[かんけい]:"relationship, connection"
-時計:時計[とけい]:"clock, watch"
-大きな:大[おお]きな:"big, loud"
+どういう:どういう:what kind of, in what way
+関係:関係[かんけい]:relationship, connection
+時計:時計[とけい]:clock, watch
+大きな:大[おお]きな:big, loud
 掛かる:掛[か]かる:to hang
-酷い:酷[ひど]い:"awful, terrible"
+酷い:酷[ひど]い:awful, terrible
 おかげ:おかげ:thanks to ...
 けんか:けんか:fight
 親:親[おや]:parents
@@ -415,10 +415,10 @@
 大好き:大好[だいす]き:love
 可愛い:可愛[かわい]い:cute
 かなり:かなり:considerably
-数:数[かず]:"number, quantity"
+数:数[かず]:number, quantity
 減る:減[へ]る:to decrease
 隣:隣[となり]:next to
-貸す:貸[か]す:"to lend, to loan"
+貸す:貸[か]す:to lend, to loan
 頼る:頼[たよ]る:to rely on
 集中:集中[しゅうちゅう]:concentration
 壊れる:壊[こわ]れる:to be broken
@@ -428,7 +428,7 @@
 自然:自然[しぜん]:nature
 豊か:豊[ゆた]か:abundant
 表情:表情[ひょうじょう]:facial expression
-体力:体力[たいりょく]:"endurance, physical strength"
+体力:体力[たいりょく]:endurance, physical strength
 吸う:吸[す]う:to smoke
 部活:部活[ぶかつ]:club activity
 負ける:負[ま]ける:to lose
@@ -439,177 +439,177 @@
 言葉:言葉[ことば]:word
 我々:我々[われわれ]:we (formal)
 人間:人間[にんげん]:human
-笑う:笑[わら]う:"to laugh, to smile"
+笑う:笑[わら]う:to laugh, to smile
 歩く:歩[ある]く:to walk
 お父さん:お 父[とう]さん:father
-病気:病気[びょうき]:"illness, disease"
+病気:病気[びょうき]:illness, disease
 死ぬ:死[し]ぬ:to die
 開く:開[ひら]く:to open
 殺す:殺[ころ]す:to kill
-戻る:戻[もど]る:"to return, to go back"
+戻る:戻[もど]る:to return, to go back
 入れる:入[い]れる:to put in
-敵:敵[てき]:"enemy, opponent, adversary"
+敵:敵[てき]:enemy, opponent, adversary
 以上:以上[いじょう]:more than ...
-振る:振[ふ]る:"to wave, to shake, to turn down (somebody)"
+振る:振[ふ]る:to wave, to shake, to turn down (somebody)
 動く:動[うご]く:to move
-必要:必要[ひつよう]:"need, necessity"
+必要:必要[ひつよう]:need, necessity
 他:他[ほか]:other
 書く:書[か]く:to write
 落ちる:落[お]ちる:to fall
 引く:引[ひ]く:to pull
 練習:練習[れんしゅう]:practice
 続ける:続[つづ]ける:to continue
-行う:行[おこな]う:"to perform, to do, to conduct oneself, to carry out"
-残る:残[のこ]る:"to remain, to be left"
-ずっと:ずっと:"always, throughout, continuously in some state (for a long time, distance)"
+行う:行[おこな]う:to perform, to do, to conduct oneself, to carry out
+残る:残[のこ]る:to remain, to be left
+ずっと:ずっと:always, throughout, continuously in some state (for a long time, distance)
 今度:今度[こんど]:next time
 包丁:包丁[ほうちょう]:knife
 新鮮:新鮮[しんせん]:fresh
 農家:農家[のうか]:farmer
-畑:畑[はたけ]:"field (fruits, vegetables)"
+畑:畑[はたけ]:field (fruits, vegetables)
 野菜:野菜[やさい]:vegetable
-切る:切[き]る:"to cut, to hang up (the phone)"
+切る:切[き]る:to cut, to hang up (the phone)
 あんな:あんな:that sort of
 奴:奴[やつ]:person (derogatory)
 驚く:驚[おどろ]く:to be surprised
 黙る:黙[だま]る:to be silent
 説明:説明[せつめい]:explanation
-似る:似[に]る:"to be alike, to resemble, to look like"
-急:急[きゅう]:"sudden, unexpected, urgent"
-困る:困[こま]る:"to be troubled, to have difficulty, to be in a fix, to be at a loss, to be stumped"
-借りる:借[か]りる:"to borrow, to rent"
+似る:似[に]る:to be alike, to resemble, to look like
+急:急[きゅう]:sudden, unexpected, urgent
+困る:困[こま]る:to be troubled, to have difficulty, to be in a fix, to be at a loss, to be stumped
+借りる:借[か]りる:to borrow, to rent
 返す:返[かえ]す:to return (something)
-大丈夫:大丈夫[だいじょうぶ]:"undoubtedly safe, all right"
-時代:時代[じだい]:"era, time period"
-以外:以外[いがい]:"with the exception of, except"
-気分:気分[きぶん]:"feeling, mood"
+大丈夫:大丈夫[だいじょうぶ]:undoubtedly safe, all right
+時代:時代[じだい]:era, time period
+以外:以外[いがい]:with the exception of, except
+気分:気分[きぶん]:feeling, mood
 隠す:隠[かく]す:to hide
-仲間:仲間[なかま]:"friends, colleauges"
-送る:送[おく]る:"to send (a thing), to take or escort (a person somewhere)"
-許す:許[ゆる]す:"to forgive, to permit, to allow"
-どうぞ:どうぞ:"please, by all means, go ahead"
+仲間:仲間[なかま]:friends, colleauges
+送る:送[おく]る:to send (a thing), to take or escort (a person somewhere)
+許す:許[ゆる]す:to forgive, to permit, to allow
+どうぞ:どうぞ:please, by all means, go ahead
 こちら:こちら:this (directional)
-向く:向[む]く:"to turn toward, to look (up, down, etc.), to to go in the direction of"
-起こす:起[お]こす:"to wake up, to cause"
-結果:結果[けっか]:"result, outcome"
-認める:認[みと]める:"to acknowledge, to admit"
+向く:向[む]く:to turn toward, to look (up, down, etc.), to to go in the direction of
+起こす:起[お]こす:to wake up, to cause
+結果:結果[けっか]:result, outcome
+認める:認[みと]める:to acknowledge, to admit
 地震:地震[じしん]:earthquake
-突然:突然[とつぜん]:"abrupt, sudden, unexpected"
-簡単:簡単[かんたん]:"easy, simple"
-怖い:怖[こわ]い:"(I'm) afraid, scary"
-確認:確認[かくにん]:"confirmation, verification, validation"
+突然:突然[とつぜん]:abrupt, sudden, unexpected
+簡単:簡単[かんたん]:easy, simple
+怖い:怖[こわ]い:(I'm) afraid, scary
+確認:確認[かくにん]:confirmation, verification, validation
 生まれる:生[う]まれる:to be born
-全員:全員[ぜんいん]:"all members (group), the whole crew"
-途中:途中[とちゅう]:"in the middle of, en route"
-急ぐ:急[いそ]ぐ:"to hurry, to rush, to hasten"
-抜く:抜[ぬ]く:"to extract, to omit, to draw out"
-噂:噂[うわさ]:"rumor, gossip"
+全員:全員[ぜんいん]:all members (group), the whole crew
+途中:途中[とちゅう]:in the middle of, en route
+急ぐ:急[いそ]ぐ:to hurry, to rush, to hasten
+抜く:抜[ぬ]く:to extract, to omit, to draw out
+噂:噂[うわさ]:rumor, gossip
 勝手に:勝手[かって]に:selfishly
 勝手:勝手[かって]:selfish
 約束:約束[やくそく]:promise
-遅い:遅[おそ]い:"late, slow"
-貼る:貼[は]る:"to stick, to paste, to affix"
+遅い:遅[おそ]い:late, slow
+貼る:貼[は]る:to stick, to paste, to affix
 届く:届[とど]く:to be delivered
 挨拶:挨拶[あいさつ]:greetings
 先輩:先輩[せんぱい]:senior (at work or school)
-連絡:連絡[れんらく]:"to contact, to get in touch with"
+連絡:連絡[れんらく]:to contact, to get in touch with
 渡す:渡[わた]す:to hand over
-必ず:必[かなら]ず:"without exception, invariably"
-特に:特[とく]に:"particularly, especially"
-無事:無事[ぶじ]:"safe, unharmed"
+必ず:必[かなら]ず:without exception, invariably
+特に:特[とく]に:particularly, especially
+無事:無事[ぶじ]:safe, unharmed
 済む:済[す]む:to be completed
 大人:大人[おとな]:adult
 売る:売[う]る:to sell
 準備:準備[じゅんび]:preparation
-嬉しい:嬉[うれ]しい:"happy, glad, pleasant"
-離す:離[はな]す:"to separate, to part, to divide, to keep apart"
-触る:触[さわ]る:"to touch, to feel"
+嬉しい:嬉[うれ]しい:happy, glad, pleasant
+離す:離[はな]す:to separate, to part, to divide, to keep apart
+触る:触[さわ]る:to touch, to feel
 癖:癖[くせ]:habit
-大事:大事[だいじ]:"important, serious"
-鍵:鍵[かぎ]:"key, lock"
+大事:大事[だいじ]:important, serious
+鍵:鍵[かぎ]:key, lock
 今回:今回[こんかい]:this time
-奪う:奪[うば]う:"to snatch away, to steal"
-なくなる:なくなる:"to be used up, to be consumed, to die"
-掴む:掴[つか]む:"to grasp, to grip, to grab, to clutch, to hold"
-まるで:まるで:"entirely, completely"
+奪う:奪[うば]う:to snatch away, to steal
+なくなる:なくなる:to be used up, to be consumed, to die
+掴む:掴[つか]む:to grasp, to grip, to grab, to clutch, to hold
+まるで:まるで:entirely, completely
 窓:窓[まど]:window
 景色:景色[けしき]:scenery
-絵画:絵画[かいが]:"painting, picture"
-本物:本物[ほんもの]:"genuine, the real thing"
-気付く:気付[きづ]く:"to notice, to realize"
-嫌い:嫌[きら]い:"hate, dislike"
-面倒:面倒[めんどう]:"trouble, bother"
-迷惑:迷惑[めいわく]:"trouble, bother, annoyance"
-助かる:助[たす]かる:"to be saved, to be rescued"
+絵画:絵画[かいが]:painting, picture
+本物:本物[ほんもの]:genuine, the real thing
+気付く:気付[きづ]く:to notice, to realize
+嫌い:嫌[きら]い:hate, dislike
+面倒:面倒[めんどう]:trouble, bother
+迷惑:迷惑[めいわく]:trouble, bother, annoyance
+助かる:助[たす]かる:to be saved, to be rescued
 祭:祭[まつり]:festival
 花火:花火[はなび]:fireworks
 打ち上げ:打[う]ち上[あ]げ:launch
 参加:参加[さんか]:participation
 幸せ:幸[しあわ]せ:happiness
 恋人:恋人[こいびと]:person who someone is dating
-寂しい:寂[さび]しい:"lonely, lonesome"
-過ごす:過[す]ごす:"to overdo, to do too much; to pass (time)"
-断る:断[ことわ]る:"to refuse, to reject, to turn down, to decline"
-真剣:真剣[しんけん]:"serious, earnest"
-こう:こう:"in this way, such"
-ばかり:ばかり:"only, just (started, finished, etc.)"
+寂しい:寂[さび]しい:lonely, lonesome
+過ごす:過[す]ごす:to overdo, to do too much; to pass (time)
+断る:断[ことわ]る:to refuse, to reject, to turn down, to decline
+真剣:真剣[しんけん]:serious, earnest
+こう:こう:in this way, such
+ばかり:ばかり:only, just (started, finished, etc.)
 頂く:頂[いただ]く:to receive (formal)
 分:分[ふん]:minutes
 一度:一度[いちど]:once
 信じる:信[しん]じる:to believe
 成功:成功[せいこう]:success
-望む:望[のぞ]む:"to wish for, to desire"
-おかしい:おかしい:"strange, unusual"
-うるさい:うるさい:"annoying, troublesome"
+望む:望[のぞ]む:to wish for, to desire
+おかしい:おかしい:strange, unusual
+うるさい:うるさい:annoying, troublesome
 大体:大体[だいたい]:mostly
-なるほど:なるほど:"I see, indeed"
+なるほど:なるほど:I see, indeed
 嘘:嘘[うそ]:lie
 間に合う:間[ま]に 合[あ]う:to be in time (for)
-どうせ:どうせ:"in any case, at any rate"
-見つかる:見[み]つかる:"to find, to discover"
+どうせ:どうせ:in any case, at any rate
+見つかる:見[み]つかる:to find, to discover
 間違い:間違[まちが]い:mistake
 久しぶり:久[ひさ]しぶり:for the first time in a while
 致す:致[いた]す:to do (formal)
 繋ぐ:繋[つな]ぐ:to connect
-いきなり:いきなり:"suddenly, abruptly"
+いきなり:いきなり:suddenly, abruptly
 びっくり:びっくり:suprise
 お母さん:お 母[かあ]さん:mother
 おる:おる:to exist (living things) {formal}
-喋る:喋[しゃべ]る:"to chat, to talk"
+喋る:喋[しゃべ]る:to chat, to talk
 構う:構[かま]う:to be concerned about
 詰まる:詰[つ]まる:to be packed (with)
 仲:仲[なか]:relationship
 暇:暇[ひま]:free-time
-腹:腹[はら]:"abdomen, stomach"
+腹:腹[はら]:abdomen, stomach
 どの:どの:which
-参る:参[まい]る:"to go, to come, to call"
+参る:参[まい]る:to go, to come, to call
 苦手:苦手[にがて]:poor (at)
-揃う:揃[そろ]う:"to be complete, to be satisfied (of conditions)"
-さて:さて:"well, now then"
+揃う:揃[そろ]う:to be complete, to be satisfied (of conditions)
+さて:さて:well, now then
 大会:大会[たいかい]:tournament
-悔しい:悔[くや]しい:"frustrating, regrettable"
+悔しい:悔[くや]しい:frustrating, regrettable
 腕:腕[うで]:arm
-悩む:悩[なや]む:"to be worried, to be troubled"
+悩む:悩[なや]む:to be worried, to be troubled
 迷う:迷[まよ]う:to get lost​
-行動:行動[こうどう]:"action, conduct"
+行動:行動[こうどう]:action, conduct
 学年:学年[がくねん]:year/grade in school
 狙う:狙[ねら]う:to aim at
 入学:入学[にゅうがく]:entry to school or university
-希望:希望[きぼう]:"hope, wish, aspiration"
+希望:希望[きぼう]:hope, wish, aspiration
 熱い:熱[あつ]い:hot (to touch)
 下がる:下[さ]がる:to go down
-お礼:お 礼[れい]:"thanks, gratitude​"
-素直:素直[すなお]:"honest, frank"
+お礼:お 礼[れい]:thanks, gratitude​
+素直:素直[すなお]:honest, frank
 直る:直[なお]る:to be fixed
 嫌う:嫌[きら]う:to hate
 機会:機会[きかい]:opportunity
 まくる:まくる:to roll up (sleeves)​
 叱る:叱[しか]る:to scold
-散々:散々[さんざん]:"severely, harshly"
-日々:日々[ひび]:"daily, day after day"
+散々:散々[さんざん]:severely, harshly
+日々:日々[ひび]:daily, day after day
 格好:格好[かっこう]:appearance; outfit
-めっちゃ:めっちゃ:"excessive, extreme"
-大人しい:大人[おとな]しい:"docile, quiet​"
+めっちゃ:めっちゃ:excessive, extreme
+大人しい:大人[おとな]しい:docile, quiet​
 拾う:拾[ひろ]う:to pick up
 計画:計画[けいかく]:plan
 止める:止[と]める:to stop
@@ -618,182 +618,182 @@
 遅刻:遅刻[ちこく]:late
 漫画:漫画[まんが]:comic
 後悔:後悔[こうかい]:regret
-上司:上司[じょうし]:"(one's) superior, (one's) boss"
-めちゃくちゃ:めちゃくちゃ:"incredibly, really"
+上司:上司[じょうし]:(one's) superior, (one's) boss
+めちゃくちゃ:めちゃくちゃ:incredibly, really
 靴下:靴下[くつした]:socks
 紙:紙[かみ]:paper
 方向:方向[ほうこう]:direction
 磨く:磨[みが]く:to polish
 床:床[ゆか]:floor
-夕方:夕方[ゆうがた]:"evening, dusk​"
+夕方:夕方[ゆうがた]:evening, dusk​
 煙:煙[けむり]:smoke
 釣り:釣[つ]り:fishing
 趣味:趣味[しゅみ]:hobby
 集める:集[あつ]める:to collect
-瞬間:瞬間[しゅんかん]:"moment, second"
+瞬間:瞬間[しゅんかん]:moment, second
 試す:試[ため]す:to try
-結ぶ:結[むす]ぶ:"to tie, to bind"
+結ぶ:結[むす]ぶ:to tie, to bind
 狭い:狭[せま]い:narrow
 増やす:増[ふ]やす:to increase
 学ぶ:学[まな]ぶ:to learn
 目:目[め]:eye
-そして:そして:"and then, thus, and finally"
-心:心[こころ]:"heart, mind, spirit, vitality"
-同じ:同[おな]じ:"same, identical"
-遠い:遠[とお]い:"far, distant"
-姿:姿[すがた]:"figure, form"
-相手:相手[あいて]:"partner, other party, opponent (sports, etc.)"
-先:先[さき]:"before, ahead, prior, former"
-胸:胸[むね]:"chest, breasts"
-呼ぶ:呼[よ]ぶ:"to call, to call out (to)"
+そして:そして:and then, thus, and finally
+心:心[こころ]:heart, mind, spirit, vitality
+同じ:同[おな]じ:same, identical
+遠い:遠[とお]い:far, distant
+姿:姿[すがた]:figure, form
+相手:相手[あいて]:partner, other party, opponent (sports, etc.)
+先:先[さき]:before, ahead, prior, former
+胸:胸[むね]:chest, breasts
+呼ぶ:呼[よ]ぶ:to call, to call out (to)
 水:水[みず]:water
 見せる:見[み]せる:to show
 娘:娘[むすめ]:daughter
-神:神[かみ]:"god, deity"
-得る:得[え]る:"to earn, to acquire, to gain"
-存在:存在[そんざい]:"existence, being"
-確か:確[たし]か:"If I'm not mistaken, If I remember correctly"
-消える:消[き]える:"to go out, to vanish, to disappear"
-最初:最初[さいしょ]:"beginning, first"
-きっと:きっと:"surely, almost certainly, most likely (90 percent)"
-場合:場合[ばあい]:"case, situation"
-感じ:感[かん]じ:"feeling, sense, impression"
-心配:心配[しんぱい]:"worry, concern, anxiety"
-離れる:離[はな]れる:"to be separated, to be apart, to be distant"
-思い出す:思い出[おもいだ]す:"to recall, to remember"
-点:点[てん]:"score (exams), dot, point"
+神:神[かみ]:god, deity
+得る:得[え]る:to earn, to acquire, to gain
+存在:存在[そんざい]:existence, being
+確か:確[たし]か:If I'm not mistaken, If I remember correctly
+消える:消[き]える:to go out, to vanish, to disappear
+最初:最初[さいしょ]:beginning, first
+きっと:きっと:surely, almost certainly, most likely (90 percent)
+場合:場合[ばあい]:case, situation
+感じ:感[かん]じ:feeling, sense, impression
+心配:心配[しんぱい]:worry, concern, anxiety
+離れる:離[はな]れる:to be separated, to be apart, to be distant
+思い出す:思い出[おもいだ]す:to recall, to remember
+点:点[てん]:score (exams), dot, point
 理由:理由[りゆう]:reason
-押す:押[お]す:"to push, to press"
+押す:押[お]す:to push, to press
 男の子:男の子[おとこのこ]:boy
 想像:想像[そうぞう]:imagination
-近い:近[ちか]い:"near (distance), close (in time)"
-女性:女性[じょせい]:"woman, feminine gender"
-事実:事実[じじつ]:"fact, truth, reality"
-寝る:寝[ね]る:"to lie down, to go to sleep"
-理解:理解[りかい]:"understanding, comprehension"
-進む:進[すす]む:"to advance, to go forward"
-状態:状態[じょうたい]:"current status, condition, situation"
+近い:近[ちか]い:near (distance), close (in time)
+女性:女性[じょせい]:woman, feminine gender
+事実:事実[じじつ]:fact, truth, reality
+寝る:寝[ね]る:to lie down, to go to sleep
+理解:理解[りかい]:understanding, comprehension
+進む:進[すす]む:to advance, to go forward
+状態:状態[じょうたい]:current status, condition, situation
 かしら:かしら:I wonder (female)
-完全:完全[かんぜん]:"perfection, completeness"
-当然:当然[とうぜん]:"of course, obviously"
-向こう:向[む]こう:"over there, that way"
-残す:残[のこ]す:"to leave (behind, over), to save, to reserve"
-普通:普通[ふつう]:"general, ordinary, usual, normally"
+完全:完全[かんぜん]:perfection, completeness
+当然:当然[とうぜん]:of course, obviously
+向こう:向[む]こう:over there, that way
+残す:残[のこ]す:to leave (behind, over), to save, to reserve
+普通:普通[ふつう]:general, ordinary, usual, normally
 星:星[ほし]:star
-守る:守[まも]る:"to protect, to keep (a promise)"
+守る:守[まも]る:to protect, to keep (a promise)
 命:命[いのち]:life
-宇宙:宇宙[うちゅう]:"universe, cosmos, space"
-変える:変[か]える:"to change, to reform, to revise, to amend"
+宇宙:宇宙[うちゅう]:universe, cosmos, space
+変える:変[か]える:to change, to reform, to revise, to amend
 重い:重[おも]い:heavy (weight)
-まさか:まさか:"It couldn't be, something unexpected"
+まさか:まさか:It couldn't be, something unexpected
 落とす:落[お]とす:to drop
 例:例[れい]:example
 方法:方法[ほうほう]:method
-状況:状況[じょうきょう]:"state of affairs (around you), situation, circumstances"
-自由:自由[じゆう]:"freedom, liberty"
-決める:決[き]める:"to decide, to choose"
-結局:結局[けっきょく]:"ultimately, in the end"
-用意:用意[ようい]:"preparation, arrangements"
+状況:状況[じょうきょう]:state of affairs (around you), situation, circumstances
+自由:自由[じゆう]:freedom, liberty
+決める:決[き]める:to decide, to choose
+結局:結局[けっきょく]:ultimately, in the end
+用意:用意[ようい]:preparation, arrangements
 秘密:秘密[ひみつ]:secret
 報告:報告[ほうこく]:report
-匂い:匂[にお]い:"scent, smell"
-調子:調子[ちょうし]:"condition, state of health"
+匂い:匂[にお]い:scent, smell
+調子:調子[ちょうし]:condition, state of health
 緊張:緊張[きんちょう]:nervousness
-安心:安心[あんしん]:"relief, peace of mind"
-他人:他人[たにん]:"other people, strangers"
+安心:安心[あんしん]:relief, peace of mind
+他人:他人[たにん]:other people, strangers
 一体:一体[いったい]:what the ...
-大変:大変[たいへん]:"greatly, terribly"
+大変:大変[たいへん]:greatly, terribly
 夏:夏[なつ]:summer
 結婚:結婚[けっこん]:marriage
-興味:興味[きょうみ]:"interest (in something), curiosity (about something)"
-事情:事情[じじょう]:"circumstances, consideration, situation, state of affairs"
-少ない:少[すく]ない:"few, a little, insufficient"
+興味:興味[きょうみ]:interest (in something), curiosity (about something)
+事情:事情[じじょう]:circumstances, consideration, situation, state of affairs
+少ない:少[すく]ない:few, a little, insufficient
 甘い:甘[あま]い:sweet
-元気:元気[げんき]:"healthy, doing well"
-作戦:作戦[さくせん]:"tactics, strategy"
+元気:元気[げんき]:healthy, doing well
+作戦:作戦[さくせん]:tactics, strategy
 教師:教師[きょうし]:teacher (fomral)
-期待:期待[きたい]:"expectation, anticipation, hope"
-喜ぶ:喜[よろこ]ぶ:"to be delighted, to be glad"
-相談:相談[そうだん]:"consultation, advice"
-落ち着く:落ち着[おちつ]く:"to calm down, to be calm"
-正直:正直[しょうじき]:"honestly, frankly"
-味:味[あじ]:"(sense of) taste, flavor"
-自信:自信[じしん]:"self-confidence, confidence (in oneself)"
-覚悟:覚悟[かくご]:"resolution, readiness, preparedness"
-結構:結構[けっこう]:"sufficient, quite, ok"
-駄目:駄目[だめ]:"hopeless, wasted, purposeless, no good, not allowed"
-邪魔:邪魔[じゃま]:"hindrance, obstacle, nuisance"
-代わり:代[か]わり:"second helping, seconds; substitute"
+期待:期待[きたい]:expectation, anticipation, hope
+喜ぶ:喜[よろこ]ぶ:to be delighted, to be glad
+相談:相談[そうだん]:consultation, advice
+落ち着く:落ち着[おちつ]く:to calm down, to be calm
+正直:正直[しょうじき]:honestly, frankly
+味:味[あじ]:(sense of) taste, flavor
+自信:自信[じしん]:self-confidence, confidence (in oneself)
+覚悟:覚悟[かくご]:resolution, readiness, preparedness
+結構:結構[けっこう]:sufficient, quite, ok
+駄目:駄目[だめ]:hopeless, wasted, purposeless, no good, not allowed
+邪魔:邪魔[じゃま]:hindrance, obstacle, nuisance
+代わり:代[か]わり:second helping, seconds; substitute
 本気:本気[ほんき]:serious
-意外:意外[いがい]:"unexpected, surprising"
-失礼:失礼[しつれい]:"excuse me, rude"
-証拠:証拠[しょうこ]:"evidence, proof"
+意外:意外[いがい]:unexpected, surprising
+失礼:失礼[しつれい]:excuse me, rude
+証拠:証拠[しょうこ]:evidence, proof
 特別:特別[とくべつ]:special
-大切:大切[たいせつ]:"important, necessary, indispensable"
-十分:十分[じゅうぶん]:"plenty, enough, sufficient, satisfactory, adequate"
-立派:立派[りっぱ]:"praiseworthy, creditable, splendid, fine, elegant"
+大切:大切[たいせつ]:important, necessary, indispensable
+十分:十分[じゅうぶん]:plenty, enough, sufficient, satisfactory, adequate
+立派:立派[りっぱ]:praiseworthy, creditable, splendid, fine, elegant
 人生:人生[じんせい]:(human) life
 残念:残念[ざんねん]:unfortunate
-焼く:焼[や]く:"to bake, to grill, to bake, to burn"
+焼く:焼[や]く:to bake, to grill, to bake, to burn
 本人:本人[ほんにん]:the person himself
 野郎:野郎[やろう]:guy (derogatory)
-我慢:我慢[がまん]:"patience, endurance"
+我慢:我慢[がまん]:patience, endurance
 責任:責任[せきにん]:responsibility
-全て:全[すべ]て:"all, entirely"
+全て:全[すべ]て:all, entirely
 茶:茶[ちゃ]:tea
-多分:多分[たぶん]:"perhaps, probably"
-弱い:弱[よわ]い:"weak, frail"
-偶然:偶然[ぐうぜん]:"coincidence, by chance"
-願う:願[ねが]う:"to desire, to wish, to request, to implore"
-活動:活動[かつどう]:"activity, action"
-親父:親父[おやじ]:"one's father, middle aged man"
+多分:多分[たぶん]:perhaps, probably
+弱い:弱[よわ]い:weak, frail
+偶然:偶然[ぐうぜん]:coincidence, by chance
+願う:願[ねが]う:to desire, to wish, to request, to implore
+活動:活動[かつどう]:activity, action
+親父:親父[おやじ]:one's father, middle aged man
 別れる:別[わか]れる:to break up
-出会う:出会[であ]う:"to meet (by chance), to come across"
-付ける:付[つ]ける:"to attach, to turn on (light)"
+出会う:出会[であ]う:to meet (by chance), to come across
+付ける:付[つ]ける:to attach, to turn on (light)
 未来:未来[みらい]:the future (usually distant)
-一応:一応[いちおう]:"more or less, tentatively"
-協力:協力[きょうりょく]:"cooperation, collaboration"
-一生:一生[いっしょう]:"whole life, a lifetime"
-最高:最高[さいこう]:"best, wonderful, finest"
-同士:同士[どうし]:"fellow, mutual, companion, comrade"
-感謝:感謝[かんしゃ]:"thanks, gratitude"
+一応:一応[いちおう]:more or less, tentatively
+協力:協力[きょうりょく]:cooperation, collaboration
+一生:一生[いっしょう]:whole life, a lifetime
+最高:最高[さいこう]:best, wonderful, finest
+同士:同士[どうし]:fellow, mutual, companion, comrade
+感謝:感謝[かんしゃ]:thanks, gratitude
 紹介:紹介[しょうかい]:introduction
 女子:女子[じょし]:girl
 せめて:せめて:at least
-平気:平気[へいき]:"calmness, composure, unconcern"
-事故:事故[じこ]:"accident, incident"
-足りる:足[た]りる:"to be sufficient, to be enough"
-勝負:勝負[しょうぶ]:"match, contest, game"
+平気:平気[へいき]:calmness, composure, unconcern
+事故:事故[じこ]:accident, incident
+足りる:足[た]りる:to be sufficient, to be enough
+勝負:勝負[しょうぶ]:match, contest, game
 恋:恋[こい]:(romantic) love
-真面目:真面目[まじめ]:"serious, earnest"
+真面目:真面目[まじめ]:serious, earnest
 掃除:掃除[そうじ]:cleaning
-似合う:似合[にあ]う:"to suit, to match"
-余計:余計[よけい]:"excessive, superfluous"
-申し訳:申し訳[もうしわけ]:"apology, excuse"
+似合う:似合[にあ]う:to suit, to match
+余計:余計[よけい]:excessive, superfluous
+申し訳:申し訳[もうしわけ]:apology, excuse
 歌う:歌[うた]う:to sing
 無い:無[な]い:to not exist (inanimate objects)
-良い:良[よ]い:"good, nice"
+良い:良[よ]い:good, nice
 お前:お 前[まえ]:you (slightly derogatory)
-訳:訳[わけ]:"reason, rationale"
-やっぱり:やっぱり:"as expected, after all"
+訳:訳[わけ]:reason, rationale
+やっぱり:やっぱり:as expected, after all
 あいつ:あいつ:him (informal)
 まま:まま:as it is (moment in time)
-馬鹿:馬鹿[ばか]:"idiot, stupid"
-嫌:嫌[いや]:"unpleasant, detestable"
-ただ:ただ:"simply, merely"
-はず:はず:"should be, must be"
+馬鹿:馬鹿[ばか]:idiot, stupid
+嫌:嫌[いや]:unpleasant, detestable
+ただ:ただ:simply, merely
+はず:はず:should be, must be
 達:達[たち]:pluralizing suffix (for people and animals)
 つもり:つもり:intention
 さっき:さっき:a short while ago
-全く:全[まった]く:"truly, entirely"
-実:実[じつ]:"truth, reality"
+全く:全[まった]く:truly, entirely
+実:実[じつ]:truth, reality
 なぜ:なぜ:why (formal)
 しかし:しかし:however
 祖母:祖母[そぼ]:grandmother
-ほど:ほど:"degree, extent"
+ほど:ほど:degree, extent
 さすが:さすが:as you'd expect
 こいつ:こいつ:this (informal)
-あまり:あまり:"not much, not very"
+あまり:あまり:not much, not very
 おはよう:おはよう:good morning
 者:者[もの]:person
 まじ:まじ:serious
@@ -809,15 +809,15 @@
 など:など:etc
 しっかり:しっかり:dependable
 辛い:辛[から]い:spicy
-せっかく:せっかく:"with trouble, at great pains"
+せっかく:せっかく:with trouble, at great pains
 しかも:しかも:moreover
 円:円[えん]:yen
 つまり:つまり:in other words
 形:形[かたち]:shape
 いくら:いくら:how much
 無し:無[な]し:without
-とりあえず:とりあえず:"for now, at once"
-仕方ない:仕方[しかた]ない:"cannot be helped, unavoidable"
+とりあえず:とりあえず:for now, at once
+仕方ない:仕方[しかた]ない:cannot be helped, unavoidable
 諦める:諦[あきら]める:to give up
 ただいま:ただいま:I'm home!
 謝る:謝[あやま]る:to apologize
@@ -825,28 +825,28 @@
 もしもし:もしもし:hello (on phone)
 感じる:感[かん]じる:to feel
 あっち:あっち:over there
-無駄:無駄[むだ]:"waste (of time, etc), pointlessness"
+無駄:無駄[むだ]:waste (of time, etc), pointlessness
 何度:何度[なんど]:how many times
-件:件[けん]:"matter, incident"
+件:件[けん]:matter, incident
 ちょうど:ちょうど:exact
-随分:随分[ずいぶん]:"considerably, awfully"
-やばい:やばい:"terrible, crap (slang)"
+随分:随分[ずいぶん]:considerably, awfully
+やばい:やばい:terrible, crap (slang)
 第:第[だい]:prefix for forming ordinal numbers
-楽しみ:楽[たの]しみ:"enjoyment, anticipation"
+楽しみ:楽[たの]しみ:enjoyment, anticipation
 側:側[そば]:near
-ばれる:ばれる:"to be exposed (a lie, etc.)"
-番:番[ばん]:"number (in a series), turn (in line)"
+ばれる:ばれる:to be exposed (a lie, etc.)
+番:番[ばん]:number (in a series), turn (in line)
 お腹:お 腹[なか]:stomach
-わざわざ:わざわざ:"especially, taking the trouble (to do)"
+わざわざ:わざわざ:especially, taking the trouble (to do)
 まずい:まずい:bad (taste)
 伯父:伯父[おじ]:uncle
-いい加減:いい 加減[かげん]:"irresponsible, careless"
+いい加減:いい 加減[かげん]:irresponsible, careless
 おめでとう:おめでとう:congratulations
-身:身[み]:"body, oneself"
-くそ:くそ:"damn, shit"
+身:身[み]:body, oneself
+くそ:くそ:damn, shit
 いろんな:いろんな:various
-可能性:可能性[かのうせい]:"possibly, potentially"
-互い:互[たが]い:"each other, one another​"
+可能性:可能性[かのうせい]:possibly, potentially
+互い:互[たが]い:each other, one another​
 臭い:臭[くさ]い:smelly
 愛する:愛[あい]する:to love
 たまに:たまに:occasionally
@@ -858,8 +858,8 @@
 偉い:偉[えら]い:distinguished
 一言:一言[ひとこと]:a few words
 相変わらず:相変[あい]わらず:as usual
-ほとんど:ほとんど:"mostly, nearly"
-よろしい:よろしい:"OK, all right"
+ほとんど:ほとんど:mostly, nearly
+よろしい:よろしい:OK, all right
 工事:工事[こうじ]:construction
 ばばあ:ばばあ:old woman (informal)
 どちら:どちら:which
@@ -867,46 +867,46 @@
 そもそも:そもそも:in the first place
 逆:逆[ぎゃく]:opposite
 裏:裏[うら]:opposite side
-不安:不安[ふあん]:"anxiety, uneasiness"
+不安:不安[ふあん]:anxiety, uneasiness
 既に:既[すで]に:already
 そいつ:そいつ:person (informal)
 深い:深[ふか]い:deep
 限り:限[かぎ]り:limit
 珍しい:珍[めずら]しい:rare
 傷つく:傷[きず]つく:to hurt
-納得:納得[なっとく]:"agreement, understanding"
-懸命:懸命[けんめい]:"earnest, with utmost effort"
+納得:納得[なっとく]:agreement, understanding
+懸命:懸命[けんめい]:earnest, with utmost effort
 まあまあ:まあまあ:so-so
 慣れる:慣[な]れる:to get used to
 可哀想:可哀想[かわいそう]:pitiful​
 現れる:現[あらわ]れる:to show
 元々:元々[もともと]:originally
 直す:直[なお]す:to repair
-勘違い:勘違[かんちが]い:"misunderstanding, mistaken idea"
+勘違い:勘違[かんちが]い:misunderstanding, mistaken idea
 辺:辺[へん]:area
-早速:早速[さっそく]:"at once, immediately"
+早速:早速[さっそく]:at once, immediately
 場:場[ば]:place
 年間:年間[ねんかん]:period of years
-素晴らしい:素晴[すば]らしい:"great, amazing"
+素晴らしい:素晴[すば]らしい:great, amazing
 正しい:正[ただ]しい:correct
 運ぶ:運[はこ]ぶ:to carry
 求める:求[もと]める:to request
 苦しい:苦[くる]しい:painful
-今後:今後[こんご]:"from now on, hereafter"
+今後:今後[こんご]:from now on, hereafter
 休み:休[やす]み:rest
 羨ましい:羨[うらや]ましい:envious
 遠慮:遠慮[えんりょ]:restraint
-以来:以来[いらい]:"since, henceforth"
+以来:以来[いらい]:since, henceforth
 受け取る:受[う]け 取[と]る:to take
 最悪:最悪[さいあく]:worst
 意識:意識[いしき]:consciousness
 越える:越[こ]える:to pass (through/over)
 正面:正面[しょうめん]:front
 完璧:完璧[かんぺき]:perfect
-普段:普段[ふだん]:"usually, normally"
+普段:普段[ふだん]:usually, normally
 誤解:誤解[ごかい]:misunderstanding
 下手:下手[へた]:poor (at)
-たとえ:たとえ:"even if, no matter (what)"
+たとえ:たとえ:even if, no matter (what)
 固い:固[かた]い:hard
 きつい:きつい:tight
 空気:空気[くうき]:air
@@ -916,19 +916,19 @@
 ちなみに:ちなみに:by the way
 思い出:思[おも]い出[で]:memory
 内容:内容[ないよう]:contents
-なめる:なめる:"to look down on (someone), to make fun of"
-昼:昼[ひる]:"daytime, midday"
+なめる:なめる:to look down on (someone), to make fun of
+昼:昼[ひる]:daytime, midday
 去年:去年[きょねん]:last year
 温かい:温[あたた]かい:warm
 きっかけ:きっかけ:chance
-手前:手前[てまえ]:"before oneself, in front of one"
+手前:手前[てまえ]:before oneself, in front of one
 バイト:バイト:part-time job
 年生:年生[ねんせい]:grade (school year)
 泳ぐ:泳[およ]ぐ:to swim
 着替える:着替[きが]える:change clothes
 男子:男子[だんし]:boy
 水着:水着[みずぎ]:swimsuit
-セリフ:セリフ:"speech, words"
+セリフ:セリフ:speech, words
 少女:少女[しょうじょ]:little girl
 会話:会話[かいわ]:conversation
 変態:変態[へんたい]:pervert
@@ -946,30 +946,30 @@
 中学:中学[ちゅうがく]:middle school
 用事:用事[ようじ]:errand
 泊まる:泊[と]まる:to stay overnight
-ガキ:ガキ:"brat (small, annoying kid)"
-全力:全力[ぜんりょく]:"all one's power (strength, energy, efforts)"
+ガキ:ガキ:brat (small, annoying kid)
+全力:全力[ぜんりょく]:all one's power (strength, energy, efforts)
 指:指[ゆび]:finger
 話し掛ける:話[はな]し 掛[か]ける:to start a conversation
-反応:反応[はんのう]:"reaction, response"
-気合い:気合[きあ]い:"(fighting) spirit, motivation"
+反応:反応[はんのう]:reaction, response
+気合い:気合[きあ]い:(fighting) spirit, motivation
 試験:試験[しけん]:test
-やる気:やる 気[き]:"willingness (to do something), eagerness"
+やる気:やる 気[き]:willingness (to do something), eagerness
 勇気:勇気[ゆうき]:courage
 穴:穴[あな]:hole
 ありがたい:ありがたい:appreciated
 秒:秒[びょう]:second (time)
 廊下:廊下[ろうか]:hallway
 光:光[ひかり]:light
-まさに:まさに:"surely, certainly"
+まさに:まさに:surely, certainly
 初:初[はつ]:first
-終了:終了[しゅうりょう]:"end, termination"
+終了:終了[しゅうりょう]:end, termination
 避ける:避[さ]ける:to avoid
 攻撃:攻撃[こうげき]:attack
 背中:背中[せなか]:back (human body)
 友人:友人[ゆうじん]:friend
 性格:性格[せいかく]:personality
-広い:広[ひろ]い:"wide, spacious"
-手伝い:手伝[てつだ]い:"help, assistance"
+広い:広[ひろ]い:wide, spacious
+手伝い:手伝[てつだ]い:help, assistance
 遊園地:遊園地[ゆうえんち]:amusement park
 待ち合わせ:待[ま]ち 合[あ]わせ:appointment
 郵便局:郵便局[ゆうびんきょく]:post office
@@ -978,12 +978,12 @@
 文房具:文房具[ぶんぼうぐ]:stationary
 天井:天井[てんじょう]:ceiling
 投げる:投[な]げる:to throw
-飽きる:飽[あ]きる:"to get tired of, to lose interest in"
-完了:完了[かんりょう]:"completion, conclusion"
-過去:過去[かこ]:"the past, bygone days"
-触れる:触[ふ]れる:"to touch, to feel"
-微妙:微妙[びみょう]:"difficult, complex, subtle"
+飽きる:飽[あ]きる:to get tired of, to lose interest in
+完了:完了[かんりょう]:completion, conclusion
+過去:過去[かこ]:the past, bygone days
+触れる:触[ふ]れる:to touch, to feel
+微妙:微妙[びみょう]:difficult, complex, subtle
 詳しい:詳[くわ]しい:detailed
-消す:消[け]す:"to extinguish, to put out"
+消す:消[け]す:to extinguish, to put out
 まとめる:まとめる:to summarize
 比べる:比[くら]べる:to compare
