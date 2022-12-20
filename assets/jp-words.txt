@@ -1,33 +1,33 @@
-いる:いる:to exist (living things)
-する:する:to do
-何:何[なに]:what
-これ:これ:this
-学校:学校[がっこう]:school
-行く:行[い]く:to go
-たくさん:たくさん:a lot
-子供:子供[こども]:"child, children"
-連れる:連[つ]れる:to take (a person along)
-犬:犬[いぬ]:dog
-宿題:宿題[しゅくだい]:homework
-私:私[わたし]:I
-屋:屋[や]:(something) shop
-ある:ある:to exist (inanimate objects)
-あそこ:あそこ:over there
-人:人[ひと]:person
-教室:教室[きょうしつ]:classroom
-そんな:そんな:"such (actions, ideas), like that, that sort of"
-鳴る:鳴[な]る:"to sound, to ring"
-買う:買[か]う:to buy
-本:本[ほん]:book
-有名:有名[ゆうめい]:famous
-読む:読[よ]む:to read
-上がる:上[あ]がる:"to ascend, to go up, to be raised, to lift"
-成績:成績[せいせき]:grades (school)
-ここ:ここ:here
-言う:言[い]う:"to say, speak"
-この:この:this (thing)
-問題:問題[もんだい]:"problem, question"
-考える:考[かんが]える:to think (about something)
+いる:いる:to existxxx (living things)
+する:する:to doxxx
+何:何[なに]:whatxxx
+これ:これ:thisxxx
+学校:学校[がっこう]:schoolxxx
+行く:行[い]く:to goxxx
+たくさん:たくさん:a lotxxx
+子供:子供[こども]:"child, children"xxx
+連れる:連[つ]れる:to take (a person along)xxx
+犬:犬[いぬ]:dogxxx
+宿題:宿題[しゅくだい]:homeworkxxx
+私:私[わたし]:Ixxx
+屋:屋[や]:(something) shopxxx
+ある:ある:to exist (inanimate objects)xxx
+あそこ:あそこ:over therexxx
+人:人[ひと]:personxxx
+教室:教室[きょうしつ]:classroomxxx
+そんな:そんな:"such (actions, ideas), like that, that sort of"xxx
+鳴る:鳴[な]る:"to sound, to ring"xxx
+買う:買[か]う:to buyxxx
+本:本[ほん]:bookxxx
+有名:有名[ゆうめい]:famousxxx
+読む:読[よ]む:to readxxx
+上がる:上[あ]がる:"to ascend, to go up, to be raised, to lift"xxx
+成績:成績[せいせき]:grades (school)xxx
+ここ:ここ:herexxx
+言う:言[い]う:"to say, speak"xxx
+この:この:this (thing)xxx
+問題:問題[もんだい]:"problem, question"xxx
+考える:考[かんが]える:to think (about something)xxx
 後:後[あと]:"later, after"
 毎日:毎日[まいにち]:every day
 彼:彼[かれ]:"he, him"
